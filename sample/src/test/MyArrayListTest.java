@@ -1,7 +1,8 @@
-package structures;
+package test;
 
 import org.junit.Before;
 import org.junit.Test;
+import structures.MyArrayList;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -23,7 +24,7 @@ public class MyArrayListTest {
 
 
     /**
-     * @throws java.lang.Exception
+     * @throws Exception
      */
     @Before
     public void setUp() throws Exception {
